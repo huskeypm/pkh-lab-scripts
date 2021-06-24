@@ -2,7 +2,7 @@
 #
 #
 # Readme: 
-#   This script currently searches for all files that contain the keyword (Bright) and merges them into a movie called /tmp/allKEYWORD.tiff"
+#   This script currently searches for all files IN THE CURRENT WORKING DIRECTORSY  that contain the keyword (Bright) and merges them into a movie called /tmp/allKEYWORD.tiff"
 #
 # Note: 
 # The imagemagick policy seemed to override my command line options, so I manually set the memory limit to 10 GiB in  /etc/ImageMagick-6/policy.xml 
