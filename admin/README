@@ -1,0 +1,6 @@
+Mostly for systems administration 
+
+run monitor.bash (as root/sudo, preferrably via cron) 
+run plotdata.py to gen plots
+need to scp them to confluence etc later
+
